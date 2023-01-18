@@ -1,12 +1,14 @@
 /* CSS Modified */
 
-.nav-item{
+.nav-link {
+  color: white; 
+  font-size: 18px; 
   position: relative;
-}
-
-nav a:hover{  
-	color: #c2d0ff; 
-}
+  }
+  
+.nav-link:hover {
+  color: #c2d0ff;
+  }
 
 .padding {
   width: 50px; 
