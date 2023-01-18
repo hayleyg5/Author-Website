@@ -1,7 +1,11 @@
 /* CSS Modified */
 
+.nav-item{
+  position: relative;
+}
+
 .padding {
-  width: 30px; 
+  width: 50px; 
   padding: 10px;
 }
 
