@@ -7,3 +7,12 @@ https://icons8.com/icons/set/twitter
 <a target="_blank" href="https://icons8.com/icon/baRhMh2wmjbT/mail">Mail</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 https://icons8.com/icons/set/email
 
+
+    <style>
+        /* Modify the background color */
+         
+        .navbar-custom {
+            background-color: rgb(99, 141, 113);
+		}
+    </style>
+
