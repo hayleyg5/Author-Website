@@ -4,6 +4,11 @@
   position: relative;
 }
 
+nav a:hover{ 
+	background-color: #ffffff; 
+	color: #000000; 
+}
+
 .padding {
   width: 50px; 
   padding: 10px;
