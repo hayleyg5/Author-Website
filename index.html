@@ -25,7 +25,25 @@
     <link href="index.css" rel="stylesheet" type="text/css">
 	
 	<!-- Include Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+	
+	<style>
+		/* Stackoverflow preview fix, please ignore */
+		.navbar-nav {
+		  flex-direction: row;
+		}
+		
+		.nav-link {
+		  padding-right: .5rem !important;
+		  padding-left: .5rem !important;
+		}
+		
+		/* Fixes dropdown menus placed on the right side */
+		.ml-auto {
+		  left: auto !important;
+		  right: 0px;
+		}
+	  </style>
 	
 </head>
 	
@@ -41,7 +59,7 @@
 		</button>
 
 		<div class="collapse navbar-collapse" id="collapsibleNavbar">
-			<ul class="navbar-nav">
+			<ul class="navbar-nav mr-auto">
 			  	<li class="nav-item">
 					<a class="nav-link" href="books.html"> Books</a>
 			  	</li>
@@ -50,7 +68,7 @@
 			  	</li> 
 			</ul>
 			<br>
-			<ul class="navbar-nav justify-content-end">
+			<ul class="navbar-nav ml-auto">
 				<li class="nav-item">
 					<a class="nav-link" href="https://twitter.com/" target="_blank"><img src="images/twitter_white.png" alt="logo" style="width:30px;"></a>
 				</li>   
