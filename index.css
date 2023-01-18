@@ -4,9 +4,8 @@
   position: relative;
 }
 
-nav a:hover{ 
-	background-color: #ffffff; 
-	color: #000000; 
+nav a:hover{  
+	color: #c2d0ff; 
 }
 
 .padding {
