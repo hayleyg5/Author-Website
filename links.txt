@@ -16,6 +16,25 @@ https://icons8.com/icons/set/email
 		}
     </style>
 
+    <div class="col-sm">
+			<div class="castle1">
+				<div class="img"> <img src="images/castle1.png" style="width:50px;"></div>
+			</div>
+		</div>
+		<div class="col-lg">
+		  <div class="row-lg" style="background-color: white">
+
+			<div class="media">
+				<div class="media-body">
+				  <h5 class="mt-0 mb-1" id="name">ROBYN RACHKOWSKI</h5>
+				  <br>
+					<h2 id="title">Fantasy Author</h2>
+				</div>
+				<img class="ml-3" src="..." alt="Generic placeholder image">
+			  </div>
+
+		  </div>
+
 <a target="_blank" href="https://icons8.com/icon/S5biqohaDgd1/menu-rounded">Menu Rounded</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 https://icons8.com/icons/set/menu
 
