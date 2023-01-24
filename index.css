@@ -42,6 +42,15 @@
   text-align: center;
 }
 
+#shortname {
+  font-size: 30px;
+  color: white;
+  background-color: rgb(99, 141, 113);
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+}
+
 #signature {
   text-align: left;
   color: rgb(230, 191, 95);
