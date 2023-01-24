@@ -25,15 +25,17 @@
 }
 
 #name {
-  font-size: 26px;
+  font-size: 30px;
   color: rgb(99, 141, 113);
   background-color: white;
+  align-content: center;
 }
 
 #title {
-  font-size: 20px;
+  font-size: 24px;
   color: #c2d0ff;
   background-color: white;
+  align-content: center;
 }
 
 #signature {
