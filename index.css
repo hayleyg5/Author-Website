@@ -29,6 +29,7 @@
   color: rgb(99, 141, 113);
   background-color: white;
   align-content: center;
+  justify-content: center;
 }
 
 #title {
@@ -36,6 +37,7 @@
   color: #c2d0ff;
   background-color: white;
   align-content: center;
+  justify-content: center;
 }
 
 #signature {
