@@ -33,6 +33,15 @@
   text-align: center;
 }
 
+#status {
+  font-size: 24px;
+  color: rgb(99, 141, 113);
+  background-color: white;
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+}
+
 #title {
   font-size: 24px;
   color: #c2d0ff;
@@ -42,8 +51,8 @@
   text-align: center;
 }
 
-#shortname {
-  font-size: 30px;
+#shortstatus {
+  font-size: 24px;
   color: white;
   background-color: rgb(99, 141, 113);
   align-content: center;
