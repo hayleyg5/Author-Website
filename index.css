@@ -42,6 +42,14 @@
   text-align: center;
 }
 
+#indexstatus {
+  font-size: 18px;
+  color: white;
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+}
+
 #status {
   font-size: 18px;
   color: rgb(99, 141, 113);
